@@ -136,6 +136,6 @@ class MainKtTest {
             currentTrans = currentTrans
         )
 
-        assertEquals(0,result)
+        assertEquals(1,result)
     }
 }
