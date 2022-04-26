@@ -2,7 +2,13 @@ Thumbs.db*
 .DS_Store*
 HELP.md
 .gradle
-build/
+build/classes
+build/jacoco
+build/kotlin
+build/snapshot
+build/test-results
+build/tmp
+
 
 ### STS ###
 .apt_generated
